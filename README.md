@@ -20,9 +20,20 @@
 
 ## 在线 TTS 示例
 
+## 简单教程
+
+进入：
+
+- 朗读
+- 朗读设置
+- 在线朗读引擎
+- 新建或编辑一个引擎
+
+没写到的项目直接留空。
+
 ### MiMo TTS
 
-其他没写的项留空。
+填写示例：
 
 ```text
 url：
@@ -34,7 +45,7 @@ https://api.xiaomimimo.com/v1/chat/completions,{"method":"POST","body":{"model":
 
 ### xAI / Grok TTS
 
-其他没写的项留空。
+填写示例：
 
 ```text
 url：

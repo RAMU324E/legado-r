@@ -19,6 +19,14 @@ Legado is a free and open source novel reader for Android.
 
 本仓库基于原项目 [gedoor/legado](https://github.com/gedoor/legado) 修改，仅保留当前可用的最新版本快照。
 
+## 免责声明
+
+仅供本地阅读器相关的 UI 设计学习交流，请勿用于任何违法犯罪行为。
+
+由使用者造成的任何违法犯罪活动均与作者无关。
+
+请于下载后 24 小时内删除。
+
 主要调整：
 
 - 修复日语 EPUB `ruby / 注音` 显示
